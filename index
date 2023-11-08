@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Waarom niemand kwantum begrijpt</title>
+</head>
+
+<body>
+    <header>
+        <h1>Waarom niemand kwantum begrijpt</h1>
+        <nav>
+            <ul>
+                <li><a href="#summary">Samenvatting</a></li>
+                <li><a href="#authors">Auteurs</a></li>
+                <li><a href="#articles">Artikelen</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="summary">
+        <h2>Samenvatting</h2>
+        <p>Vul hier de samenvatting van het boek in.</p>
+    </section>
+
+    <section id="authors">
+        <h2>Auteurs</h2>
+        <p>Frank Verstraete en Céline Broeckaert zijn de auteurs van het boek "Waarom niemand kwantum begrijpt". Vul hier hun biografieën in.</p>
+    </section>
+
+    <section id="articles">
+        <h2>Artikelen</h2>
+        <p>Vul hier links in naar artikelen die zijn verschenen in grote kranten.</p>
+        <ul>
+            <li><a href="link_naar_artikel_1">Artikel 1</a></li>
+            <li><a href="link_naar_artikel_2">Artikel 2</a></li>
+            <!-- Voeg meer artikelen toe indien nodig -->
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Jouw Naam. Alle rechten voorbehouden.</p>
+    </footer>
+</body>
+
+</html>
